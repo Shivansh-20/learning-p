@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 #welcome feature
 if sys.argv[1].strip().lower() == "welcome":
-    print("""Weclome, command words for input
+    print("""Welcome, command words for input
 -- for adding task -> "add" ,"task detail"
 -- for checking tasks -> "list"  as action - > payload accepted ->  "done" and -> "not done"
 -- for  printing all tasks -> use only "list"
