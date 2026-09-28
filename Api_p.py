@@ -1,3 +1,6 @@
+#This is a simple stock basic operation simulator to Learn about API basics and SQL implementation in the language
+#while i was building this , I learnt about fastapi and cursor, then i explored REST,error handling and matplotlib plus pandas
+#while Learning this, I also tried  plotting graphs using matplot and fetching stocks data in my google collab notebook
 import sqlite3
 from pydantic import BaseModel, Field
 from fastapi import FastAPI, HTTPException
