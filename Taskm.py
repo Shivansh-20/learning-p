@@ -1,3 +1,5 @@
+#This is a first build (require further improvements) of a simple CLI Task manager for some dedicated operations 
+#It helped me to utilise the new libraries understand Json manipulation to a certain level and structure code accoriding to requirements
 import sys
 import json
 from datetime import datetime
